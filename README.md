@@ -1,2 +1,2 @@
-# JUN_SQL
+# KDT_SQL
 SQL, DBeaver
